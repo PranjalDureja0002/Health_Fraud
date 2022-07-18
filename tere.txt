@@ -1,0 +1,27 @@
+def extract_fields():
+  pdf = pdfplumber.open(r'/content/221985464 - Korea QR.pdf')
+  name_list=[]
+  val_list=[]
+  pages = pdf.pages
+  target_page = pages[18]
+  text = target_page.extract_text()
+  tables = target_page.extract_tables()
+  lines = text.split('\n')
+  for line in lines:
+    if ':' in line and 'Date' not in line and 'TEL' not in line and 'FAX not in line':
+      name = line.split(":")[0]
+      name_list.append(name)
+      val = line.split(":")[-1]
+      val_list.append(val)
+  st_list = list(zip(name_list,val_list))
+  #print(tables)
+  table = tables[0]
+
+    #remove `\n`
+  for i in range( len(table) ):
+      for j in range( len(table[i]) ):
+          table[i][j] = table[i][j].replace('\n', '')
+
+  df = pd.DataFrame( table[1:], columns=table[0] )
+  return df,name_list,val_list
+data,a,b = extract_fields()
