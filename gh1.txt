@@ -1,3 +1,85 @@
+z01-01-01.png	Medicaton Admin
+z01-01-02.png	ion
+z01-01-03.png	Record
+z01-01-04.png	DOB:02/22/1951
+z01-01-05.png	AGE:
+z01-01-06.png	7
+z01-01-07.png	CSN:
+z01-01-08.png	20498443163
+z01-01-09.png	MEDS
+z01-01-10.png	DATE: 10/18/22
+z01-01-11.png	TIME:
+z01-01-12.png	23:09
+z01-01-13.png	PM	
+z01-01-14.png	DOB: 2/22/1951 (71 yrs) Male
+z01-01-15.png	MRN: 801360092 Adm Date: 10/19/2022
+z01-01-16.png	Administration Date:
+z01-01-17.png	CSN: 20498443163 Unit: SFMC4PCU
+z01-01-18.png	Room#
+z01-01-19.png	Allergies:
+z01-01-20.png	Discharge
+z01-01-21.png	Start
+z01-01-22.png	Scheduled
+z01-01-23.png	24:00-
+z01-01-24.png	08:00-
+z01-01-25.png	16:00-
+z01-01-26.png	Cont/DC &
+z01-01-27.png	dt/tm
+z01-01-28.png	Medication
+z01-01-29.png	Dose
+z01-01-30.png	Route
+z01-01-31.png	Frequency	
+z01-01-32.png	07:59
+z01-01-33.png	15:59
+z01-01-34.png	MD initials
+z01-01-35.png	10/19/22
+z01-01-36.png	0900
+z01-01-37.png	0200
+z01-01-38.png	ma
+z01-01-39.png	0
+z01-01-40.png	Daily
+z01-01-41.png	10/19/22
+z01-01-42.png	Chest
+z01-01-43.png	pain
+z01-01-44.png	Q Smins
+z01-01-45.png	Nitro
+z01-01-46.png	0.4 ma
+z01-01-47.png	L	
+z01-01-48.png	Pizn
+z01-01-49.png	0200
+z01-01-50.png	10/19/22
+z01-01-51.png	Pain
+z01-01-52.png	0200
+z01-01-53.png	fever(100.4)
+z01-01-54.png	650 mg
+z01-01-55.png	0
+z01-01-56.png	PRN
+z01-01-57.png	10/19/22
+z01-01-58.png	PRN
+z01-01-59.png	nausea
+z01-01-60.png	Q hrs
+z01-01-61.png	0200
+z01-01-62.png	Zohran
+z01-01-63.png	vomitina
+z01-01-64.png	4 mg
+z01-01-65.png	PRN
+z01-01-66.png	10/19/22	
+z01-01-67.png	n
+z01-01-68.png	aused
+z01-01-69.png	Others
+z01-01-70.png	Zofian	
+z01-01-71.png	vomi
+z01-01-72.png	ting
+z01-01-73.png	4ma
+z01-01-74.png	o
+z01-01-75.png	PRN
+z01-01-76.png	0200
+z01-01-77.png	Signature
+z01-01-78.png	Initials
+
+
+
+
 0	1	2	3
 S.No. 1	Diary Number	50 / 2020	ROP
 S.No. 1	Case Number	SLP(C) No.-014870 / 2020	15-03-2022
