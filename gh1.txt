@@ -1,81 +1,628 @@
-z01-01-01.png	Medicaton Admin
-z01-01-02.png	ion
-z01-01-03.png	Record
-z01-01-04.png	DOB:02/22/1951
-z01-01-05.png	AGE:
-z01-01-06.png	7
-z01-01-07.png	CSN:
-z01-01-08.png	20498443163
-z01-01-09.png	MEDS
-z01-01-10.png	DATE: 10/18/22
-z01-01-11.png	TIME:
-z01-01-12.png	23:09
-z01-01-13.png	PM	
-z01-01-14.png	DOB: 2/22/1951 (71 yrs) Male
-z01-01-15.png	MRN: 801360092 Adm Date: 10/19/2022
-z01-01-16.png	Administration Date:
-z01-01-17.png	CSN: 20498443163 Unit: SFMC4PCU
-z01-01-18.png	Room#
-z01-01-19.png	Allergies:
-z01-01-20.png	Discharge
-z01-01-21.png	Start
-z01-01-22.png	Scheduled
-z01-01-23.png	24:00-
-z01-01-24.png	08:00-
-z01-01-25.png	16:00-
-z01-01-26.png	Cont/DC &
-z01-01-27.png	dt/tm
-z01-01-28.png	Medication
-z01-01-29.png	Dose
-z01-01-30.png	Route
-z01-01-31.png	Frequency	
-z01-01-32.png	07:59
-z01-01-33.png	15:59
-z01-01-34.png	MD initials
-z01-01-35.png	10/19/22
-z01-01-36.png	0900
-z01-01-37.png	0200
-z01-01-38.png	ma
-z01-01-39.png	0
-z01-01-40.png	Daily
-z01-01-41.png	10/19/22
-z01-01-42.png	Chest
-z01-01-43.png	pain
-z01-01-44.png	Q Smins
-z01-01-45.png	Nitro
-z01-01-46.png	0.4 ma
-z01-01-47.png	L	
-z01-01-48.png	Pizn
-z01-01-49.png	0200
-z01-01-50.png	10/19/22
-z01-01-51.png	Pain
-z01-01-52.png	0200
-z01-01-53.png	fever(100.4)
-z01-01-54.png	650 mg
-z01-01-55.png	0
-z01-01-56.png	PRN
-z01-01-57.png	10/19/22
-z01-01-58.png	PRN
-z01-01-59.png	nausea
-z01-01-60.png	Q hrs
-z01-01-61.png	0200
-z01-01-62.png	Zohran
-z01-01-63.png	vomitina
-z01-01-64.png	4 mg
-z01-01-65.png	PRN
-z01-01-66.png	10/19/22	
-z01-01-67.png	n
-z01-01-68.png	aused
-z01-01-69.png	Others
-z01-01-70.png	Zofian	
-z01-01-71.png	vomi
-z01-01-72.png	ting
-z01-01-73.png	4ma
-z01-01-74.png	o
-z01-01-75.png	PRN
-z01-01-76.png	0200
-z01-01-77.png	Signature
-z01-01-78.png	Initials
+file_name	text
+pr0	DOB: 2/22/1951 (71 yrs) Male
+pr1	MRN: 801360092 Adm Date: 10/19/2022
+pr2	Administration Date:
+pr4	Room #
+pr6	Allergies:
+pr7	Discharged
+pr8	Start
+pr9	Scheduled
+pr10	24.00
+pr11	Medication Admin
+pr12	8:00
+pr13	16:00
+pr14	Cont/DC &
+pr15	dt/tm
+pr16	Medication
+pr17	Dose
+pr18	Route
+pr19	Frequency
+pr20	7:59
+pr21	15:59
+pr22	ion
+pr23	Record
+pr24	MD initials
+pr25	10/19/22
+pr26	anRN
+pr27	900
+pr28	200
+pr29	5LS
+pr30	mg
+pr31	325 mg
+pr32	0
+pr33	Daily
+pr35	DOB: 02/22/1951
+pr36	10/19/22
+pr37	Chest
+pr38	Pain
+pr39	Qsmins
+pr40	Nitro
+pr41	0.4 mg
+pr42	L
+pr43	PRN
+pr44	200
+pr45	10/19/22
+pr46	Pain
+pr47	(1-3)
+pr48	AGE:
+pr49	0:00
+pr52	200
+pr53	Tylenol
+pr54	fever (100.4)
+pr55	450mg
+pr57	PRN
+pr58	10/19/2022
+pr59	PRN
+pr60	Nausea
+pr61	24 hrs.
+pr62	CSN
+pr63	20498443163
+pr64	200
+pr65	Zofran
+pr66	Vomiting
+pr67	4 mg
+pr68	1
+pr69	PRN
+pr70	10/19/2022
+pr71	n
+pr72	ausea
+pr73	24 hrs.
+pr74	Zofran
+pr75	MEDS
+pr76	Vomi
+pr77	ting
+pr78	4 mg
+pr79	0
+pr80	PRN
+pr81	200
+pr82	Signature
+pr83	Initials
+pr87	TIME:
+pr88	23:09
+pr89	PM
+pz0	MAR Starts @ 24:00
+pz1	Patient
+pz2	MRN: 801097224
+pz3	Adm
+pz4	CSN: 20498423268 Unit:
+pz5	ADMISSION:
+pz7	HEIGHT:
+pz8	ATTENDING:
+pz9	WEIGHT:
+pz10	CHI
+pz11	Health
+pz12	BIRTH DATE
+pz13	DIET:
+pz14	DIAGNOSIS
+pz15	ROOM
+pz16	PRN
+pz17	MEDICATIONS
+pz18	Administration Times
+pz19	Discharge
+pz20	Start Date/
+pz21	MEDS/MD
+pz22	TIME:
+pz23	Page
+pz24	2 of 4
+pz25	Initials
+pz26	Medication
+pz27	Dose
+pz28	Route
+pz29	Frequency
+pz30	PRN
+pz31	Indication
+pz32	0000-0759
+pz33	800
+pz34	1559
+pz35	1600-2359
+pz36	MAR Date
+pz37	10/19/22
+pz38	PO
+pz39	Tylenol
+pz40	450 mg
+pz41	9Qh
+pz42	pain
+pz43	PRN
+pz44	10zz
+pz45	Zofran
+pz46	4 mg
+pz47	Allergies:
+pz48	9Qh
+pz49	Nausea
+pz50	PRN
+pz51	Vomiting
+pz52	10/19/22
+pz53	tabs
+pz54	PO
+pz55	Acetaminophen
+pz56	325 mg
+pz57	1
+pz59	2
+pz60	Reaction
+pz61	1022
+pz62	Q4h
+pz63	PRN
+pz64	10/19/2022
+pz65	Systane
+pz66	0.4
+pz67	0.30%
+pz68	opthalmic
+pz69	PRN
+pz70	1022
+pz71	solution
+pz72	PATIENT
+pz73	6325
+px0	DOB: 2/22/1951 (71 yrs) Male
+px1	MRN: 801360092 Adm Date: 10/19/2022
+px2	Administration Date:
+px3	CSN: 20498443163 Unit:
+px4	Room #
+px6	Allergies:
+px7	Discharge
+px8	Start
+px9	Scheduled
+px11	Medication Admin
+px12	8:00
+px13	16:00
+px14	Cont/DC &
+px15	dt/tm
+px16	Medication
+px17	Dose
+px18	Route
+px19	Frequency
+px20	7:59
+px21	15:59
+px22	ion
+px23	Record
+px24	MD initials
+px25	10/19/2022
+px26	anRN
+px27	900
+px28	200
+px29	5LS
+px30	mg
+px31	325 mg
+px32	0
+px33	Daily
+px35	DOB: 02/22/1951
+px36	10/19/2022
+px37	Chest
+px38	pain
+px39	Qsmins
+px40	Nitro
+px41	0.4 mg
+px42	L
+px43	PRN
+px44	200
+px45	10/19/2022
+px46	Pain
+px47	(1-3)
+px48	AGE:
+px49	7
+px51	Q4 hrs
+px52	200
+px53	Tylenol
+px54	fever (100.4)
+px55	450 mg
+px56	0
+px57	PRN
+px58	10/19/2022
+px59	PRN
+px60	Nausea
+px61	Q4 hrs
+px62	CSN:
+px63	20498443163
+px64	200
+px65	Zofran
+px66	Vomiting
+px67	4 mg
+px68	1
+px69	PRN
+px70	10/19/2022
+px71	n
+px72	ausea
+px73	Q4hrs
+px74	Zofran
+px75	MEDS
+px76	Vomi
+px77	ting
+px78	4 mg
+px79	0
+px80	PRN
+px81	200
+px82	Signature
+px83	Initials
+px86	DATE: 10/18/22
+px87	TIME:
+px88	23:09
+px89	PM
+pc0	MAR Starts @ 24:00
+pc1	PATIENT
+pc2	NUMBER:
+pc3	PATIENT
+pc4	DOB: 12/13/1963 (58 yrs.) Male
+pc6	ADMISSION:
+pc7	DATE/TIME:
+pc8	ADMISSION:
+pc10	HEIGHT:
+pc11	ATTENDING:
+pc12	PHYSICIAN
+pc14	ATTEND
+pc16	WEIGHT:
+pc17	BIRTH DATE/AGE:
+pc18	BIRTHDATE
+pc19	DIET:
+pc20	DIAGNOSIS
+pc21	ROOM
+pc22	ROOM
+pc25	PRN
+pc26	10/19/2022
+pc27	Medications
+pc28	Administration
+pc29	Times
+pc42	Indication
+pc43	0000-0759
+pc44	0800-1559
+pc45	1600-2359
+pc47	Signature
+pc48	Allergies:
+pc49	Initials
+pc55	Page: 4 of 4
+pc56	6210
+pc57	Reaction
+pc58	MAR
+pc59	Date
+pc60	PATIENT
+pv0	MRN:010
+pv1	CSN:
+pv2	20498423282
+pv4	10/18/2022
+pv5	Allergy Category
+pv6	ALLERGEN
+pv7	PATIENT
+pv8	NAME
+pv9	MAR for
+pv10	PATIENT NUMBER
+pv11	nkft
+pv13	ee
+pv14	NUMBER:
+pv15	MAR Starts @ 24:00
+pv16	ADMISSION:
+pv17	DATE/TIME:
+pv18	ADMITTING
+pv19	PHYSICIAN
+pv20	BIRTH DATE/AGE:
+pv21	WT:
+pv22	DIAGNOSIS
+pv23	/
+pv24	BSA:
+pv25	PREGNANT:
+pv26	LACTATING:
+pv29	NS:
+pv30	ROOM/BED:
+pv31	Start dt/tm: | Discharge
+pv32	Stop dt/tm: | Meds/
+pv33	24:00:00
+pv35	8:00
+pv36	16:00
+pv37	ORDER #
+pv38	MD initials | Medication
+pv39	Dosage
+pv40	Route
+pv42	Frequency
+pv43	7:59
+pv44	15:59
+pv45	23:59
+pv46	10/18/22
+pv47	Ancet
+pv48	2 gm IV | oncall
+pv49	to OR
+pv50	emu
+pv51	uk
+pv53	Name:
+pv54	2000
+pv55	2
+pv56	10/18/22
+pv57	NS:
+pv58	IV
+pv59	100 ml/hr
+pv60	2000
+pv61	Norco
+pv62	5/325
+pv63	mg
+pv64	1-2 tabs
+pv65	PO
+pv67	10/18/22
+pv68	44 hr
+pv69	PIN
+pv70	pain
+pv71	Zofran
+pv72	4 mg
+pv73	IV
+pv74	q6hr
+pv75	prn
+pv76	10/18/2022
+pv77	nausea
+pv78	keppra
+pv79	500 mg
+pv80	IV
+pv81	9 12 hr.
+pv82	DOB:
+pv83	3/6/70
+pv84	52 yr. M
+pv85	10/18/22
+pv86	1800
+pv87	10/18/22
+pv88	Ativan
+pv89	1-2 mg
+pv90	q 1 hr
+pv91	prn for
+pv92	seizuies
+pv93	looting
+pv94	more than zmin
+pv95	10
+pv96	Alegant Chreighton Health
+pv108	10/18/2022 1614P
+pb0	PATIENT NAME
+pb1	MAR
+pb2	FOR
+pb3	PATIENT 
+pb4	NUMBER:
+pb5	EE
+pb6	NUMBER:
+pb7	MAR Starts @ 24:00
+pb8	ADMISSION:
+pb9	DATE/TIME:
+pb15	Name:
+pb16	WT:
+pb17	B71bs
+pb18	DIAGNOSIS
+pb19	BSA:
+pb20	NS:
+pb21	ROOM/BED:
+pb22	Start dt/tm | Discharge
+pb23	Stop dt/tm: 
+pb24	Meds/
+pb25	24:00 - 08:00
+pb26	DOB:
+pb27	3/6/70
+pb28	16:00
+pb29	ORDER #
+pb30	MD initials | Medication
+pb31	Dosage
+pb32	Route
+pb33	Frequency
+pb34	7:59
+pb35	15:59
+pb36	23:59
+pb38	52
+pb39	yr
+pb40	m
+pb41	100
+pb42	Nacl
+pb43	@
+pb44	100 ml
+pb45	1 hr.
+pb46	4
+pb47	continuous
+pb48	728
+pb49	VL
+pb50	1000 VL
+pb52	Arrival:
+pb53	10/18/2022 1614P
+pb54	728
+pb55	IV P
+pb56	Zofran
+pb57	4 mg
+pb59	All
+pb60	Pctop
+pb61	N/19
+pb62	8 mg
+pb63	IV P
+pb64	Decadron
+pb65	MR0010
+pb66	0725 Ay
+pb67	puop
+pb68	error
+pb74	1800
+pb75	keppra
+pb76	CSN:
+pb77	500 mg
+pb78	IV
+pb79	9|2
+pb83	Initials | Signature
+pb87	Verified
+pb88	By:
+pb89	Corrections
+pb91	Sent By:
+pb92	LSH090001
+pb93	(6/04)
+pb95	6/28/04
+pn0	6
+pn1	66F
+pn2	ADMISSI
+pn3	ADM
+pn4	DATE:
+pn35	2-4 mg
+pn36	10/19/22
+pn37	IV
+pn38	Q4h
+pn39	Morphine
+pn40	1435
+pn41	10/18/22
+pn42	PRN
+pn43	for
+pn44	pain
+pn45	2 mg
+pn46	lm
+pn47	scheduled
+pn48	Allergies
+pn49	10/20
+pn50	aspirin
+pn51	81 mg
+pn52	po
+pn53	a day
+pn54	tresiba
+pn55	100/ml
+pn56	units
+pn57	subq
+pn58	10/20
+pn59	.
+pn60	Reaction
+pn61	20
+pn62	Qd
+pn63	6335
+pm33	800
+pm34	1559
+pm35	1600-2359
+pm36	MAR Date
+pm37	10/19
+pm38	PO
+pm39	Tylenol
+pm40	450 mg
+pm41	9Qh
+pm42	pain
+pm43	PRN
+pm44	102z
+pm45	Zofran
+pm46	4 mg
+pm47	Allergies
+pm48	9Qh
+pm49	nausea/
+pm50	PRN
+pm51	Vomiting
+pm52	10/19/22
+pm53	tabs
+pm54	PO
+pm55	Acetaminophen
+pm56	325 mg
+pm57	1
+pm59	2
+pm60	Reaction
+pm61	102z
+pm62	Q4h
+pm63	PRN
+pm64	10/19/22
+pm65	Systane
+pm66	0.4
+pm67	0.30%
+pm68	opthalmic
+pm69	PRN
+pm70	10zz
+pm71	solution
+pa10	10/18
+pa15	GSH3PCU
+pa20	BIRTHDA.
+pa21	DIET:
+pa22	DIAGNOSIS
+pa26	Due Times
+pa29	Start Date/ | Meds/MD
+pa30	Time
+pa31	Initials
+pa32	Medication
+pa33	Dose
+pa34	Route
+pa40	2100
+pa41	200 mg
+pa42	BID
+pa43	Amiodarone
+pa44	10/19/2022
+pa55	Page: 1 of 4
+ps0	po
+ps1	a
+ps2	day
+ps3	10/20
+ps4	1
+ps9	6335
+ps10	PATIENT
+ps11	DOB: 08/22/1956 66F
+ps12	ADMISSION:
+ps13	ADM DATE: 10/18/2022
+ps19	BIRTHDATE
+ps39	0800-1559
+ps40	1600-2359
+ps41	10/20
+ps42	Vitamin
+ps43	D
+ps44	400
+ps45	in 
+ps46	PO
+ps47	CHI Health
+ps48	Q
+ps49	day
+ps50	targaxan
+ps51	10 mg
+ps52	po
+ps53	a day
+ps54	10/20
+ps55	1
+ps56	10/20
+ps57	Gabapertin
+ps58	300
+ps59	mg
+ps60	PO
+ps61	Page: 1
+ps62	of 4
+ps63	BID
+ps64	10/20
+ps65	hydralazine
+ps66	25 mg
+ps67	PO
+ps68	BID
+ps69	levothyroxine
+ps70	po
+ps71	10/20
+ps72	137 mg
+ps73	MAR
+ps74	Date
+ps75	1
+ps76	a day
+ps77	lisinopril
+ps78	5 mg
+ps79	po
+ps80	q
+ps81	da
+ps82	y
+ps83	10/20
+ps84	10/20
+ps85	magnesium
+ps86	lactate
+ps87	Allergies
+ps88	168 mg
+ps89	po
+ps90	BID
+ps91	me
+ps92	top
+ps93	orlol
+ps94	tartate
+ps95	100
+ps96	mg
+ps97	10/20
+ps98	1
+ps99	Reaction
+ps100	BID
+ps101	10/20
+ps102	Omiprazole
+ps103	20
+ps104	mg
+ps105	po
+ps106	day
+ps107	10/20
+ps108	Setraline
+ps109	150
+ps110	PATIENT NAME
+ps111	po
+ps112	a day
+ps113	/
+ps114	januvia
+ps115	25 mg
+ps116	po
+ps117	a day
+ps118	10/20
+ps119	tolteodine
+ps120	ER
+ps121	4 mg
+
 
 
 
